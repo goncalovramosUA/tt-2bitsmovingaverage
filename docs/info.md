@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The circuit calculates the 4 moving average where (avg(n) = x(n) + x(n-1) + x(n-2) + x(n-3)) 
 
 ## How to test
 
-Explain how to use your project
+Just Testing now (later i will inform)
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
